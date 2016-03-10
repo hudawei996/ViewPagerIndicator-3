@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ViewPagerIndicator</string>
+    
+    <string-array name="titles" >
+        <item>短信</item>
+        <item>推荐</item>
+        <item>收藏</item>
+        <item>iphone</item>
+        <item>ipod</item>
+        <item>ipad</item>
+        <item>macbook</item>
+        <item>iwatch</item>
+        <item>kindle</item>
+    </string-array>
+
+</resources>
