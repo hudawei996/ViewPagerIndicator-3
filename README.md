@@ -147,7 +147,7 @@ ViewPager指示器
         <item>kindle</item>
     </string-array>
     
-    # XML attributes
+# XML attributes
     <declare-styleable name="ViewPagerIndicator">
     <attr name="visible_tab_count" format="integer" />
     </declare-styleable>
